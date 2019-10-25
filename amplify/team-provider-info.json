@@ -1,0 +1,21 @@
+{
+    "winofi": {
+        "awscloudformation": {
+            "AuthRoleName": "myamplify-winofi-20191025154326-authRole",
+            "UnauthRoleArn": "arn:aws:iam::285969510977:role/myamplify-winofi-20191025154326-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::285969510977:role/myamplify-winofi-20191025154326-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "myamplify-winofi-20191025154326-deployment",
+            "UnauthRoleName": "myamplify-winofi-20191025154326-unauthRole",
+            "StackName": "myamplify-winofi-20191025154326",
+            "StackId": "arn:aws:cloudformation:eu-west-2:285969510977:stack/myamplify-winofi-20191025154326/41fc6430-f768-11e9-8e14-0a216ef7b6d4"
+        },
+        "categories": {
+            "auth": {
+                "myamplify46497e62": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"2532338923470019\",\"client_secret\":\"3e75170eeb5fab8165e650d4c8122439\"},{\"ProviderName\":\"Google\",\"client_id\":\"878272343868-c3aqu5b34up5qp4ih9b5tivhu3fts3oc.apps.googleusercontent.com\",\"client_secret\":\"YsmVsJmiAPqFlw1B6LUyYKD0\"}]"
+                }
+            }
+        }
+    }
+}
